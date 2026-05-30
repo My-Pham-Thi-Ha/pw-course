@@ -1,6 +1,6 @@
-Các kiến thức đã học ở lesson 2:
+# **Các kiến thức đã học ở lesson 2**
 
-# I. Git basic:
+## **I. Git basic:**
 - Version control system
 - 3 vùng làm việc: working directory, staging, repository
 - Các câu lệnh git: 
@@ -12,7 +12,7 @@ Các kiến thức đã học ở lesson 2:
     - git config user.name ""
     - git config user.email ""
 
-# II. JavaScript basic:
+## **II. JavaScript basic:**
 - Học lệnh console.log để in ra màn hình.
 - Học khái niệm biến và hằng, cách khai báo.
 - Cách comment code
