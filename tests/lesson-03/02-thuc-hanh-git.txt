@@ -33,7 +33,7 @@ d. Chạy lệnh git add .
 g. Chạy lệnh git restore --staged file2
 - Local: file1, file2, file3
 - Working directory: file1, file2, file3
-- Staging: file2
+- Staging: file3
 - Repository: file1
 - Có 1 commit với message "add file"
 h. Chạy lệnh git commit -m"add all files"

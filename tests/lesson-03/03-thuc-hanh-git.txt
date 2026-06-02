@@ -21,11 +21,11 @@ c. Thêm file .gitignore, thêm vào 2 dòng
 d. Chạy lệnh gid add .
 - Local: file1.txt, file2.txt, oops/file3.txt, .gitignore
 - Working directory: file1.txt, file2.txt, oops/file3.txt, .gitignore
-- Staging: file2.txt
+- Staging: file2.txt, .gitignore
 - Repository:
 
 e. Chạy lệnh git commit -m"init project"
 - Local: file1.txt, file2.txt, oops/file3.txt, .gitignore
 - Working directory: file1.txt, file2.txt, oops/file3.txt, .gitignore
-- Staging: file2.txt
-- Repository: file2.txt
+- Staging: 
+- Repository: file2.txt, .gitignore

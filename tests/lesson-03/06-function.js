@@ -14,13 +14,12 @@ function findMin(a, b, c) {
     if (min > c) {
         min = c;
     }
-    console.log(`So be nhat la: ${min}`);
+    return min;
 }
-
-findMin(5, 4, 8);
-findMin(1, 2, 3);
-
-
+let soNhoNhat = findMin(5, 4, 8);
+console.log(`So be nhat la: ${soNhoNhat}`);
+soNhoNhat = findMin(1, 2, 3);
+console.log(`So be nhat la: ${soNhoNhat}`);
 // Câu 3: 
 function getTopStudents(students, threhold) {
     let topScore = [];
